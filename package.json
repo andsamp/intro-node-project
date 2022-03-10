@@ -28,6 +28,6 @@
     "bin"
   ],
   "bin": {
-    "helloworld": "./bin/hello-world"
+    "helloworld": "./bin/hello-world.js"
   }
 }
