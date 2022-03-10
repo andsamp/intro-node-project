@@ -6,3 +6,5 @@ This project is meant to be an introduction to node.js. There are branches for e
   * At this point you have a very basic `package.json` and simple entry-point that prints something. You can see the output by running `node .`
 * `step-2` - We've added some `dependencies`, `devDependencies`, and some `scripts`
   * At this point we have dependencies, some scripts, and a slightly nicer entry-point.
+* `step-3` - We've updated the project so that we can install it globally.
+  * At this point we can now install this project globally on our machine with `npm i -g`(or `npm link` if using `volta`)
