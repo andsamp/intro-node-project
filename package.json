@@ -1,0 +1,10 @@
+{
+  "name": "intro-node-project",
+  "version": "0.0.1",
+  "description": "Introduction to node.js",
+  "main": "./src/index.js",
+  "repository": "git@github.com:andsamp/intro-node-project.git",
+  "author": "Andy Sampson <3719810+andsamp@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
